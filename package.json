@@ -8,7 +8,7 @@
     "react-dom": "^19.0.0",
     "react-icons": "^5.4.0",
     "react-scripts": "5.0.1",
-    "homepage":"https://1sarmatt.github.io/my-react-app"
+    "homepage":"https://1sarmatt.github.io/my-react-shop"
   },
   "scripts": {
     "predeploy":"npm run build",
